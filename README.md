@@ -6,3 +6,4 @@
   <li>⭐ 请看一看我的<b>vue3-mini</b>，觉得还不错请帮我点一点⭐ </li>
 </ul>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18845778092&layout=compact&langs_count=8&theme=algolia"/>
+![](https://raw.githubusercontent.com/18845778092/18845778092/main/assets/github-contribution-grid-snake.svg)
