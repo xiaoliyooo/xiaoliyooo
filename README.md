@@ -1,7 +1,5 @@
-<p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18845778092&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-- 🔭 我现在在天津工作
-- :rocket: 学习
-- :money_with_wings: 赚钱
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18845778092&layout=compact&langs_count=8&theme=algolia"/>
+<ul>
+    <li>:rocket: 好好学习</li>
+     <li>:money_with_wings: 多多赚钱</li>
+</ul>
